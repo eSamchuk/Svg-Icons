@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg902"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="return2.svg">
+  <defs
+     id="defs896" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-87.142857"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata899">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:nodetypes="sscccccssccsss"
+       style="fill:#000000;stroke-width:0.13707176"
+       inkscape:connector-curvature="0"
+       d="m 9.9143919,55.323243 c 6.0933881,6.093388 14.1948771,9.449178 22.8123051,9.449178 h 6.177687 v 5.657774 l 17.32683,-17.32683 -17.32683,-17.32683 v 5.657774 h -6.177687 c -10.219248,0 -18.533199,-8.31395 -18.533199,-18.533198 0,-10.219248 8.313951,-18.5331987 18.533199,-18.5331987 V 0.24945425 c -8.617428,0 -16.718917,3.35579085 -22.8123051,9.44917885 C 3.8210039,15.792021 0.46521309,23.89351 0.46521309,32.510938 c 0,8.617427 3.35565371,16.718779 9.44917881,22.812305 z"
+       id="path832-1-7" />
+  </g>
+</svg>

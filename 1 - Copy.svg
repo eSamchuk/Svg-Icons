@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="1.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="11.428571"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+
+    <path
+       style="fill:#000000;stroke-width:0.26458332"
+       d="m 0,48.316 v 80.526 H 32.21 V 48.316 c 0,-8.874 7.231,-16.105 16.105,-16.105 h 80.526 V 0 H 48.316 C 21.678,0 0,21.678 0,48.316 Z M 563.685,0 h -80.526 v 32.21 h 80.526 c 8.874,0 16.104,7.231 16.104,16.105 v 80.526 H 612 V 48.316 C 612,21.678 590.322,0 563.685,0 Z M 32.21,563.685 V 483.159 H 0 v 80.526 C 0,590.322 21.678,612 48.316,612 h 80.526 V 579.789 H 48.316 c -8.874,0 -16.106,-7.23 -16.106,-16.104 z m 547.579,0 c 0,8.874 -7.23,16.104 -16.104,16.104 H 483.159 V 612 h 80.526 C 590.322,612 612,590.322 612,563.685 V 483.159 H 579.789 Z M 322.105,209.368 h -32.211 v 80.526 h -80.526 v 32.211 h 80.526 v 80.526 h 32.211 v -80.526 h 80.526 v -32.211 h -80.526 z"
+       id="path12" />
+  </g>
+</svg>
